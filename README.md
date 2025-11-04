@@ -1,71 +1,3 @@
-# photo-sharing-v1
-
-Ứng dụng React nhỏ để duyệt danh sách người dùng và ảnh (bootstrapped bằng Create React App).
-
-Mở trên CodeSandbox
-
-<a href="https://codesandbox.io/s/github/huytrung8924/LAB"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Open in CodeSandbox"/></a>
-
-Hướng dẫn nhanh (chạy cục bộ)
-
-1. Cài đặt dependencies:
-
-```
-npm install
-```
-
-2. Chạy ứng dụng:
-
-```
-npm start
-```
-
-Mặc định sẽ mở http://localhost:3000
-
-Ghi chú
-
-- Để import vào CodeSandbox dùng: https://codesandbox.io/s/github/huytrung8924/LAB
-- Đảm bảo file `package.json` ở thư mục gốc của repo để CodeSandbox có thể nhận diện và cài đặt.
-- Nếu muốn mình có thể tạo một sandbox mẫu và đẩy link cho bạn.
-
-Liên hệ
-
-- Nếu cần hỗ trợ thêm khi import hoặc cấu hình sandbox, cho mình biết.
-
-# photo-sharing-v1
-
-Ứng dụng React nhỏ để duyệt danh sách người dùng và ảnh (bootstrapped bằng Create React App).
-
-Mở trên CodeSandbox
-
-<a href="https://codesandbox.io/s/github/huytrung8924/LAB"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Open in CodeSandbox"/></a>
-
-Hướng dẫn nhanh (chạy cục bộ)
-
-1. Cài đặt dependencies:
-
-```
-npm install
-```
-
-2. Chạy ứng dụng:
-
-```
-npm start
-```
-
-Mặc định sẽ mở http://localhost:3000
-
-Ghi chú
-
-- Để import vào CodeSandbox dùng: https://codesandbox.io/s/github/huytrung8924/LAB
-- Đảm bảo file `package.json` ở thư mục gốc của repo để CodeSandbox có thể nhận diện và cài đặt.
-- Nếu muốn mình có thể tạo một sandbox mẫu và đẩy link cho bạn.
-
-Liên hệ
-
-- Nếu cần hỗ trợ thêm khi import hoặc cấu hình sandbox, cho mình biết.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -121,33 +53,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## Photo Sharing v1 (photo-sharing-v1)
+### Making a Progressive Web App
 
-This is a small React app (bootstrapped with Create React App) for browsing user lists and photos.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Open this project in CodeSandbox using the button below or by importing the repository.
+### Advanced Configuration
 
-<a href="https://codesandbox.io/s/github/huytrung8924/LAB"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Open in CodeSandbox"/></a>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Nếu bạn muốn chạy dự án này cục bộ trên máy của mình:
+### Deployment
 
-1. Cài đặt các phụ thuộc:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-```
-npm install
-```
+### `npm run build` fails to minify
 
-2. Chạy chế độ phát triển:
-
-```
-npm start
-```
-
-Ứng dụng sẽ mở ở http://localhost:3000 theo mặc định.
-
-Ghi chú:
-
-- Nếu bạn import trực tiếp vào CodeSandbox, sử dụng liên kết: https://codesandbox.io/s/github/huytrung8924/LAB
-- Đảm bảo `package.json` ở thư mục gốc (nằm sẵn trong repo) để CodeSandbox có thể cài đặt và chạy dự án.
-
-Nếu cần mình có thể bổ sung một demo trực tuyến hoặc cấu hình sandbox riêng cho project này.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
